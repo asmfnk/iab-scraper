@@ -1,5 +1,7 @@
 {
   "name": "iab-scraper",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
